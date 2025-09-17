@@ -15,6 +15,6 @@ This repository is meant for visualization of choice model
 
 > `function partalg(data::Array, num_part = 2)`
 
-> `funtion rum`
+> `funtion rum(s, T::Vector{Int}, λ, perms)`
 
-> `function fit_rum`
+> `function fit_rum(data::Array)`
