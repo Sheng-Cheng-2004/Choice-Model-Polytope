@@ -9,12 +9,12 @@ This repository is meant for visualization of choice model
   3. 2 Type Mixture Model and its Choice Domain
 
 ## "partionalg.ipynb"
-> 'function fit_mnl(data::Array)'
+> `function fit_mnl(data::Array)`
 
-> 'function kpartitions(arr, k)'
+> `function kpartitions(arr, k)`
 
-> 'function partalg(data::Array, num_part = 2)'
+> `function partalg(data::Array, num_part = 2)`
 
-> 'funtion rum'
+> `funtion rum`
 
-> 'function fit_rum'
+> `function fit_rum`
